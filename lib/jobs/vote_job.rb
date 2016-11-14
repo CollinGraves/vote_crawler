@@ -13,6 +13,7 @@ module Jobs
 
       browser.buttons[1].click
 
+      browser.close
     end
   end
 end
