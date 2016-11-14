@@ -13,9 +13,6 @@ module Jobs
 
       browser.buttons[1].click
 
-      # 'http://wshe.es/aYIOYdqe'
-      #   generated_email = FFaker::Internet.email
-      # "vote":"/api/pages_v1/social_campaigns/1764371/votes"
     end
   end
 end
