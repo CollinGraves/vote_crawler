@@ -26,6 +26,8 @@ gem 'ffaker'
 gem 'headless'
 gem 'watir'
 gem 'mechanize'
+gem "chromedriver-helper"
+
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
